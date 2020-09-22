@@ -13,4 +13,5 @@ checking that everything is going as planned and if something goes wrong, for ex
 and continue like nothing happened.
 
 In order to move around the graphical interface of the game I used
-PYAUTOGUI which is very useful to automate robotic boring tasks :D.
+PYAUTOGUI which is very useful to automate robotic boring tasks.
+for the teleporting I used WOW Admin Panel. 
